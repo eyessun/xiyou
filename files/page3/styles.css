@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:10px;
+  width:2100px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -11,4 +11,26 @@
 #base {
   position:absolute;
   z-index:0;
+}
+#u50_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1242px;
+  height:2062px;
+}
+#u50 {
+  position:absolute;
+  left:858px;
+  top:882px;
+  width:1242px;
+  height:2062px;
+}
+#u51 {
+  position:absolute;
+  left:2px;
+  top:1023px;
+  width:1238px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
